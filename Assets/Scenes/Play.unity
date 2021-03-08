@@ -659,25 +659,9 @@ PrefabInstance:
       value: PlatformGenerator
       objectReference: {fileID: 0}
     - target: {fileID: 3169608295214347191, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
-      propertyPath: maxY
-      value: 3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3169608295214347191, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
-      propertyPath: minY
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 3169608295214347191, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
       propertyPath: _parent
       value: 
       objectReference: {fileID: 1056808447}
-    - target: {fileID: 3169608295214347191, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
-      propertyPath: levelWidth
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 3169608295214347191, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
-      propertyPath: SpawnerPosition.y
-      value: -6.55
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a481a8ca7c88a734089b00d05d85a519, type: 3}
 --- !u!1001 &5947071125249540848

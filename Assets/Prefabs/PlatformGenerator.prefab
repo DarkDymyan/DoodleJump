@@ -44,8 +44,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   platformPrefab: {fileID: 1707336341555553698, guid: 6fdb3213384657d4e876d717e45d3bec, type: 3}
-  SpawnerPosition: {x: 0, y: -4.8, z: 0}
+  SpawnerPosition: {x: 0, y: -6.55, z: 0}
   numberOfPlatforms: 10
-  levelWidth: 2.5
-  minY: 0.2
-  maxY: 3
+  levelWidth: 3
+  minY: 1.5
+  maxY: 3.2
+  _parent: {fileID: 0}
